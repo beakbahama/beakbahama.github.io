@@ -1,2 +1,1 @@
 # beakbahama.github.io
-website
